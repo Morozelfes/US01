@@ -1,0 +1,3 @@
+- GOT final gephi : graph of the result on GOT project
+- Final graph : final graph given as a result
+- poster_GOT : document sent by email with title and explanation (PPT and PDF)
